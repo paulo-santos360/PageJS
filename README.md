@@ -22,7 +22,9 @@ O Pagination Complete é um projeto web que demonstra uma solução de paginaç�
 
 ## Pré-Visualização 📸
 
-![Pagination Complete Preview](https://github.com/paulo-santos360/PageJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc)
+![Pagination Complete Preview](
+https://github.com/paulo-santos360/PageJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc
+)
 
 ## Contribuição 🤝
 
