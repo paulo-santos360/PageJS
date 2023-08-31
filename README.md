@@ -36,4 +36,4 @@ Este projeto está licenciado sob a [Mit XYZ](https://pt.wikipedia.org/wiki/Lice
 
 Feito com ❤️ por [paulo] (https://paulo-santos360.github.io/PageJS/) 👨‍💻
 
-https://github.com/paulo-santos360/PageJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc
+
