@@ -22,7 +22,7 @@ O Pagination Complete é um projeto web que demonstra uma solução de paginaç�
 
 ## Pré-Visualização 📸
 
-![Pagination Complete Preview](link-para-screenshot.png)
+![Pagination Complete Preview](https://paulo-santos360.github.io/PageJS/)
 
 ## Contribuição 🤝
 
@@ -30,6 +30,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir _issues_ e _pull
 
 ## Licença 📄
 
-Este projeto está licenciado sob a [Licença XYZ](link-para-licenca).
+Este projeto está licenciado sob a [Mit XYZ](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
 
-Feito com ❤️ por [paulo](https://paulo-santos360.github.io/PageJS/) 👨‍💻
+Feito com ❤️ por [paulo] (https://paulo-santos360.github.io/PageJS/) 👨‍💻
