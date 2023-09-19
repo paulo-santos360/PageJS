@@ -11,6 +11,7 @@ O Pagination Complete é um projeto web que demonstra uma solução de paginaç�
 - HTML5 e CSS3 para estrutura e estilo.
 - Font Awesome (5.14.0) para ícones visualmente atraentes.
 - JavaScript para lógica de paginação e interatividade.
+  
 
 ## Como Usar 📖
 
